@@ -1,5 +1,8 @@
 # DTCREMOVER_v1
 
+[![image](https://github.com/reproteq/DTCREMOVER_v1/raw/main/DTCREMOVER-SCREENSHOOT.jpg)](https://github.com/reproteq/DTCREMOVER_v1/raw/main/DTCREMOVER-SCREENSHOOT.jpg)
+
+
 [![Watch the Demo](https://img.youtube.com/vi/SMUpH-_Z0T0/0.jpg)](https://youtu.be/SMUpH-_Z0T0)
 
 ## Overview
@@ -45,5 +48,5 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 Feel free to explore the project, contribute to its development, and make your ECU tuning and diagnostic tasks more efficient with DTC Remover!
 
-[![image](https://github.com/reproteq/DTCREMOVER_v1/raw/main/DTCREMOVER-SCREENSHOOT.jpg)
+
 
