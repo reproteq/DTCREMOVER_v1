@@ -45,6 +45,5 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 Feel free to explore the project, contribute to its development, and make your ECU tuning and diagnostic tasks more efficient with DTC Remover!
 
-[![Miniatura de la Imagen](https://github.com/reproteq/DTCREMOVER_v1/raw/main/DTCREMOVER-SCREENSHOOT.jpg)](https://github.com/reproteq/DTCREMOVER_v1/raw/main/DTCREMOVER-SCREENSHOOT.jpg)
-
+[![image](https://github.com/reproteq/DTCREMOVER_v1/raw/main/DTCREMOVER-SCREENSHOOT.jpg)
 
